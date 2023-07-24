@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>katagiri memo</title>
+    <link>https://kttkatagiri.github.io/</link>
+    <description>Recent content on katagiri memo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jul 2023 17:19:36 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Mon, 24 Jul 2023 15:17:54 +0900</lastBuildDate><atom:link href="https://kttkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://example.org/posts/test/</link>
-      <pubDate>Sun, 23 Jul 2023 17:19:36 +0900</pubDate>
+      <title>Jamf学習記録</title>
+      <link>https://kttkatagiri.github.io/posts/202307/</link>
+      <pubDate>Mon, 24 Jul 2023 15:17:54 +0900</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
-      <description></description>
+      <guid>https://kttkatagiri.github.io/posts/202307/</guid>
+      <description>公式サイト https://www.jamf.com/ja/
+Jamf100学習記録 Jamf100
+https://www.jamf.com/ja/training/online-training/100/ https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Welcome.html セクション1 ~ 5まである レッスン1はiOS、レッスン2はmacOSに関する内容 レッスン3以降からJamfとデバイス管理などについて Jamf100 セクション1
+https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Section_1.html レッスン1 ~ 5まである だいたいiOSに関する内容 Jamf100 セクション2
+https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Section_2.html レッスン6 ~ 15まである だいたいmacOSに関する内容 Jamf100 セクション3
+https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Section_3.html レッスン16 ~ 21まである 「Jamf Pro の設定とインフラストラクチャ」とあるがあんまりイメージできていない Jamf100 セクション4
+https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Section_4.html レッスン22 ~ 28まである 「デバイス管理」とあるがあんまりイメージできていない Jamf100 セクション5
+https://learn.jamf.com/ja-JP/bundle/jamf-100-course-current/page/Section_5.html レッスン29 ~ 38まである 「コンピュータ管理」とあるがあんまりイメージできていない </description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sun, 23 Jul 2023 15:17:54 +0900</pubDate>
+      <title>Portfolio</title>
+      <link>https://kttkatagiri.github.io/posts/portfolio/</link>
+      <pubDate>Sun, 23 Jul 2023 17:19:36 +0900</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://kttkatagiri.github.io/posts/portfolio/</guid>
+      <description>Portfolio 2009 高専卒業 情報工学科 2011 大学卒業 このあたり https://ken.ieice.org/ken/download/20110526V0g8/ 2014 大学院修士卒業 このあたり https://katagiri.bitbucket.io/cont-M.pdf 2014~2015 1社目入社 コーダー・プログラマ iPadで動作するPOS開発 PHP/Yii framework JavaScript/jQuery 社内端末管理ツールの改修 Java/Seasar2 古いPOSシステムの改修 VB6.0 2015~2017 2社目（約3年） ネットワークエンジニア（データセンターメイン） このあたり https://www.janog.gr.jp/meeting/janog39/program/asean.html データセンターネットワーク構築・運用・監視 Cisco/Brocade/Juniper 各スイッチ、ファイアウォール機、ロードバランサ ネットワーク監視ツール CentOSサーバ運用 Nagios/Cacti Cron/ShellScript 2017~2023 3社目（約5年） 1~4年目 ネットワークエンジニア（オフィス・データセンター・クラウド） このあたり https://engineering.dena.com/blog/authors/kunitate-katagiri/ オフィス移転など Cisco/Juniper/F5 各スイッチ、ファイアウォール機、ロードバランサ Merakiも AWS/GCPちょっと terraformちょっと ネットワーク監視ツール Smokeping/Swatch Nagios/Prometheusちょっと Ubuntuサーバ運用 Ansibleちょっと 5年目 社内システムヘルプデスク・端末管理 社内ドキュメント整備（Confluence） ActiveDirectory　オペレートのみ Jamfによる端末管理（今やっている） 端末キッティング環境構築（社内ネットワーク） </description>
     </item>
     
   </channel>
