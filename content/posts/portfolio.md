@@ -4,6 +4,10 @@ date: 2023-07-23T17:19:36+09:00
 draft: false
 ---
 
+## Links
+
+- https://github.com/kttkatagiri
+
 ## Portfolio
 
 - 2009 高専卒業
