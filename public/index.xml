@@ -6,7 +6,17 @@
     <description>Recent content on katagiri memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Aug 2023 00:17:00 +0900</lastBuildDate><atom:link href="https://kttkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 00:17:00 +0900</lastBuildDate><atom:link href="https://kttkatagiri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chrome拡張機能の開発記録</title>
+      <link>https://kttkatagiri.github.io/posts/chrome_extension/</link>
+      <pubDate>Sun, 27 Aug 2023 00:17:00 +0900</pubDate>
+      
+      <guid>https://kttkatagiri.github.io/posts/chrome_extension/</guid>
+      <description>公式サイト Documentation Extensions Getting Started Guides
+関連リンク https://qiita.com/RyBB/items/32b2a7b879f21b3edefc https://r7kamura.com/articles/2022-05-07-chrome-extension-dev-2022 </description>
+    </item>
+    
     <item>
       <title>ChatGPT学習記録</title>
       <link>https://kttkatagiri.github.io/posts/gpt/</link>
