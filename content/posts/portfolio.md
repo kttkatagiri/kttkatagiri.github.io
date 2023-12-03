@@ -50,8 +50,8 @@ draft: false
     - Ubuntuサーバ運用
       - Ansibleちょっと
   - 5年目 社内システムヘルプデスク・端末管理
-    - Zendeskを使った社内ヘルプデスク
     - 社内ITツール・PC端末トラブルにおけるナレッジ・ドキュメント整備（Zendesk、Confluence）
-    - ActiveDirectoryオペレートのみ
-    - Jamfによる端末管理
-    - PC端末キッティング環境構築（社内ネットワーク）
+    - Windows端末管理
+      - MDM管理、ActiveDirectory運用
+    - Mac端末管理
+      - MDM管理
